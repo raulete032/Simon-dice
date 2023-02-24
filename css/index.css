@@ -1,0 +1,33 @@
+
+.divColor{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+#red{
+    background-color: red;
+    border-top-left-radius: 50%;
+    filter: brightness(50%);
+
+}
+
+#blue{
+    background-color: blue;
+    border-top-right-radius: 50%;
+    filter: brightness(50%);
+
+}
+
+#green{
+    background-color: green;
+    border-bottom-left-radius: 50%;
+    filter: brightness(50%);
+
+}
+
+#yellow{
+    background-color: yellow;
+    border-bottom-right-radius: 50%;
+    filter: brightness(50%);
+}
